@@ -27,12 +27,12 @@ public class initialGeneration {
 //        grid[18+OFFSET][8+OFFSET] = true;
   
 //Small Exploder
-        grid[25+OFFSET][35+OFFSET] = true;
-        grid[26+OFFSET][35+OFFSET] = true;
-        grid[26+OFFSET][34+OFFSET] = true;
-        grid[27+OFFSET][34+OFFSET] = true;
-        grid[27+OFFSET][36+OFFSET] = true;
-        grid[28+OFFSET][35+OFFSET] = true;
+//        grid[25+OFFSET][35+OFFSET] = true;
+//        grid[26+OFFSET][35+OFFSET] = true;
+//        grid[26+OFFSET][34+OFFSET] = true;
+//        grid[27+OFFSET][34+OFFSET] = true;
+//        grid[27+OFFSET][36+OFFSET] = true;
+//        grid[28+OFFSET][35+OFFSET] = true;
 
 //Exploder
 
