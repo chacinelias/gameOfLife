@@ -51,8 +51,7 @@ public class initialGeneration {
         grid[23+OFFSET][12+OFFSET] = true;
         grid[24+OFFSET][12+OFFSET] = true;
         
-        grid[24+OFFSET][10+OFFSET] = true;
-        
+        grid[24+OFFSET][10+OFFSET] = true;       
 
 //Gun
         grid[4+OFFSET][0+OFFSET] = true;
@@ -105,12 +104,10 @@ public class initialGeneration {
         grid[4+OFFSET][34+OFFSET] = true;
         grid[4+OFFSET][35+OFFSET] = true;        
 
-
 //Blinker
         grid[40+OFFSET][38+OFFSET] = true;
         grid[41+OFFSET][38+OFFSET] = true;
-        grid[42+OFFSET][38+OFFSET] = true;
-        
+        grid[42+OFFSET][38+OFFSET] = true;    
         
 //10-cell row
         grid[40+OFFSET][10+OFFSET] = true;
@@ -123,7 +120,6 @@ public class initialGeneration {
         grid[40+OFFSET][17+OFFSET] = true;
         grid[40+OFFSET][18+OFFSET] = true;
         grid[40+OFFSET][19+OFFSET] = true;
-
 
         return grid;
     }

@@ -29,13 +29,6 @@ public class GameOfLife {
                     }
                     System.out.println("");
                 }
-                //debug printout for neighbor array:
-//                for(int v=OFFSET; v<GRIDSIZE; v++){
-//                    for(int w=OFFSET; w<GRIDSIZE; w++){
-//                        System.out.print(neighbors[v][w]+" ");
-//                    }
-//                    System.out.println("");
-//                }
                 
                 for(int i=OFFSET; i<GRIDSIZE; i++){
                     for(int j=OFFSET; j<GRIDSIZE; j++){
@@ -66,7 +59,7 @@ public class GameOfLife {
                  System.out.print("\n\n\n\n\n");
             }
         }
-        timer.scheduleAtFixedRate(new Task(), 0, 250);
+        timer.scheduleAtFixedRate(new Task(), 0, 225);
     }
 }
 
